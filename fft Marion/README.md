@@ -42,9 +42,9 @@ Completed with input: {
   ]
 }
 
-I can’t directly write files from this session, but here’s a ready-to-save README.md for your project using `fftM.py`:
 
-```md
+
+
 # Fourier Image Editor
 
 A small Python desktop app that applies frequency-domain filters to images using Fourier transforms. The app lets you open an image, switch between low-pass and high-pass filtering, adjust the cutoff radius, preview the result, and save the filtered image.
@@ -131,9 +131,7 @@ py -m pip install --upgrade pillow
 
 If you still have trouble, make sure you are running the script with the same Python environment that has the packages installed.
 
-## License
 
-This project is provided as-is for learning and experimentation.
-```
 
-If you want, I can also make a cleaner version with a proper screenshot section, usage examples, and a more polished project description.
+
+
