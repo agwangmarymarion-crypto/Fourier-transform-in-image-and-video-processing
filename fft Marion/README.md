@@ -1,50 +1,3 @@
-Read , lines 1 to 200
-Completed with input: {
-  "path": "c:\\Users\\ssesa\\Desktop\\fft Marion",
-  "view_range": [
-    1,
-    200
-  ]
-}
-
-I’m creating a short project README covering setup, run steps, and the app’s purpose.
-
-No-op placeholder to satisfy session requirement
-Completed with input: {
-  "description": "No-op placeholder to satisfy session requirement",
-  "query": "SELECT 1;"
-}
-
-Read , lines 1 to 20
-Completed with input: {
-  "path": "c:\\Users\\ssesa\\Desktop\\fft Marion\\.venv",
-  "view_range": [
-    1,
-    20
-  ]
-}
-
-Read , lines 1 to 80
-Completed with input: {
-  "path": "c:\\Users\\ssesa\\Desktop\\fft Marion\\.venv\\pyvenv.cfg",
-  "view_range": [
-    1,
-    80
-  ]
-}
-
-Read , line 1
-Completed with input: {
-  "path": "c:\\Users\\ssesa\\Desktop\\fft Marion\\.venv\\Scripts\\python.exe",
-  "view_range": [
-    1,
-    1
-  ]
-}
-
-
-
-
 # Fourier Image Editor
 
 A small Python desktop app that applies frequency-domain filters to images using Fourier transforms. The app lets you open an image, switch between low-pass and high-pass filtering, adjust the cutoff radius, preview the result, and save the filtered image.
@@ -128,10 +81,3 @@ This can happen if Pillow is outdated. Update it:
 ```bash
 py -m pip install --upgrade pillow
 ```
-
-If you still have trouble, make sure you are running the script with the same Python environment that has the packages installed.
-
-
-
-
-
